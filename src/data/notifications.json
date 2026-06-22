@@ -1,0 +1,26 @@
+[
+  {
+    "id": "note-1",
+    "userId": "user-1",
+    "title": "New join request",
+    "message": "Ishan requested to join Build Together.",
+    "type": "request",
+    "read": false
+  },
+  {
+    "id": "note-2",
+    "userId": "user-1",
+    "title": "Project saved",
+    "message": "Nora saved Blood Bank Management System.",
+    "type": "saved",
+    "read": false
+  },
+  {
+    "id": "note-3",
+    "userId": "user-2",
+    "title": "Team update",
+    "message": "Mana Seva has a new milestone suggestion.",
+    "type": "project",
+    "read": true
+  }
+]

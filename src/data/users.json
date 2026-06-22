@@ -1,0 +1,62 @@
+[
+  {
+    "id": "user-1",
+    "name": "Aarav Mehta",
+    "username": "aaravdev",
+    "email": "aarav@example.com",
+    "password": "password123",
+    "role": "Developer",
+    "bio": "Full-stack developer who enjoys building SaaS products and clean APIs.",
+    "skills": ["React", "Node.js", "MongoDB", "JWT"],
+    "interests": ["Startups", "Open Source", "AI Tools"],
+    "experienceLevel": "Intermediate",
+    "github": "https://github.com/aaravdev",
+    "linkedin": "https://linkedin.com/in/aaravdev",
+    "avatar": "A"
+  },
+  {
+    "id": "user-2",
+    "name": "Maya Rao",
+    "username": "mayadesigns",
+    "email": "maya@example.com",
+    "password": "password123",
+    "role": "Designer",
+    "bio": "Product designer focused on polished onboarding, dashboards, and design systems.",
+    "skills": ["Figma", "UX Research", "Design Systems"],
+    "interests": ["SaaS", "Accessibility", "Startups"],
+    "experienceLevel": "Advanced",
+    "github": "",
+    "linkedin": "https://linkedin.com/in/mayarao",
+    "avatar": "M"
+  },
+  {
+    "id": "user-3",
+    "name": "Ishan Verma",
+    "username": "ishanai",
+    "email": "ishan@example.com",
+    "password": "password123",
+    "role": "AI Engineer",
+    "bio": "AI engineer building practical ML products and recommendation systems.",
+    "skills": ["Python", "LLMs", "Vector Search", "Data Science"],
+    "interests": ["AI / ML", "Data Science", "Hackathons"],
+    "experienceLevel": "Advanced",
+    "github": "https://github.com/ishanai",
+    "linkedin": "https://linkedin.com/in/ishanai",
+    "avatar": "I"
+  },
+  {
+    "id": "user-4",
+    "name": "Nora Khan",
+    "username": "norafounder",
+    "email": "nora@example.com",
+    "password": "password123",
+    "role": "Founder",
+    "bio": "Founder and growth builder helping teams launch and validate startup ideas.",
+    "skills": ["Product", "Growth", "Analytics"],
+    "interests": ["Startup", "Marketing", "Community"],
+    "experienceLevel": "Intermediate",
+    "github": "",
+    "linkedin": "https://linkedin.com/in/norakhan",
+    "avatar": "N"
+  }
+]
